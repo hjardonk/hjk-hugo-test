@@ -2,7 +2,7 @@ baseURL = "https://hjardonk.github.io/hjk-hugo-test/"
 relativeURLs = false
 canonifyURLs = true
 languageCode = "en-us"
-title = "Hildeberto Jardon-Kojakhmetov"
+title = "Hildeberto Jardón-Kojakhmetov"
 
 [params]
   tagline = "Dynamical systems, singularity theory, network science"
