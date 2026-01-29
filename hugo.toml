@@ -1,6 +1,6 @@
-baseURL = "https://hjardonk.github.io/hjk-hugo-test/"
-relativeURLs = false
+baseURL = "https://hildejk.xyz/"
 canonifyURLs = true
+relativeURLs = false
 languageCode = "en-us"
 title = "Hildeberto Jardón-Kojakhmetov"
 
