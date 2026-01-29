@@ -46,4 +46,4 @@ title: "CV"
 
 - Member of the Binding Study Advice (BSA) committee (since 2022)
 - Member of the NDNS+ board (since 2025)
-- Organizer of the Floris Takens seminar
+- Organizer of the [Floris Takens seminar](https://hjardonk.github.io/FlorisTakensSeminar/)
