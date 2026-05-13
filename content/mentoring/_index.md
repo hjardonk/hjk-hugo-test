@@ -30,6 +30,7 @@ For Bachelor and Master projects, I am happy to discuss topics aligned with my r
 
 ### Bachelor
 
+* **Teun Silvius**, TBD, RUG, 2026.
 * **Anirudh Ranganatha**, Analysis on Phase-Locking in Interacting Theta Neurons, RUG, 2025.
 * **Aimilia Kokkinofta**, Coupling Mechanisms in Central Pattern Generators: A Two-Neuron FitzHugh–Nagumo Model, RUG, 2025.
 * **Ivet Stanislavova**, Analysis of an Adaptive Theta Neuron model, RUG, 2024.
