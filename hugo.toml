@@ -5,7 +5,7 @@ languageCode = "en-us"
 title = "Hildeberto Jardón-Kojakhmetov"
 
 [params]
-  tagline = "Dynamical systems and network science"
+  tagline = ""
   affiliation = "University of Groningen"
   email = "h.jardon.kojakhmetov@rug.nl"
   github = ""
